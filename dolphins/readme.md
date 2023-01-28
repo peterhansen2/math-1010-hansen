@@ -1,6 +1,7 @@
 # DOLPHINS!
 
-
+ 
+ 
 The file dolphins.gml contains an undirected social network of frequent
 associations between 62 dolphins in a community living off Doubtful Sound,
 New Zealand, as compiled by Lusseau et al. (2003).  Please cite
